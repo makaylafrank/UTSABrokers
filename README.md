@@ -1,9 +1,9 @@
 Single-screen data driven real estate Android app
 
 Objectives:
-Android single-screen, data driven apps 
-Javadoc
-ArrayList
+Android single-screen, data driven apps, 
+Javadoc,
+ArrayList,
 File I/O
 
 Task: Real Estate App!
