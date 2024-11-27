@@ -18,10 +18,11 @@ On our github page click the green-colored Code button and copy the hyperlink fr
 Next, <img width="682" alt="step1" src="https://github.com/user-attachments/assets/73450d4a-3048-487d-8f5a-0a09ac9b28ee">
 
 Open your Android Studio then go to the File > New > Project from Version Control as shown in the below image. 
-![image](https://github.com/user-attachments/assets/949eb21d-c21c-4d6c-9776-f2cc4a4117b2)
+<img width="388" alt="image" src="https://github.com/user-attachments/assets/d2b4cd78-209a-41b5-b3b7-ce5c3a4ccbd8">
+
 
 After clicking Project from Version Control it will show this popup window, choose Git from the drop-down menu.
-![image](https://github.com/user-attachments/assets/8a948f3c-5ca1-45c7-8362-d9255ef0da67)
+<img width="473" alt="image" src="https://github.com/user-attachments/assets/875a9f1a-e48f-4cd2-907e-2e09458e2daf">
 
 Finally, paste the link in the URL and choose your Directory. Then, click on the Clone button.
 <img width="541" alt="image" src="https://github.com/user-attachments/assets/10dd284c-11c0-47d5-8d17-3b53440a298c">
