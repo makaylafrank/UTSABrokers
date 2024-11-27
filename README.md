@@ -9,3 +9,6 @@ File I/O
 Task: Real Estate App!
 An agent from USTA (the “Urban Space... something…) real estate brokers have asked for a software to organize their properties. 
 They have provided a data file for us to read in and display the properties they have listed for sale. Let us design a basic mobile app around what they want to see. 
+
+
+![image](https://github.com/user-attachments/assets/4da37b03-d33f-440b-86d1-9ac186bc1f61)
