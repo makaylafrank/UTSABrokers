@@ -15,7 +15,8 @@ To run this program, first ensure git is properly downloaded on your device.
 If git is not already properly installed, refer to the pdf below for instructions on how to download it.
 [Git Setup and SSH Access Token Configuration (2).pdf](https://github.com/user-attachments/files/17941240/Git.Setup.and.SSH.Access.Token.Configuration.2.pdf)
 
-Once git is properly installed, navigate to our github page click the green-colored Code button and copy the hyperlink from the SSH option as shown in the image.
+Once git is properly installed, navigate to our github page.
+Click the green-colored Code button and copy the hyperlink from the SSH option as shown in the image.
 <img width="682" alt="step1" src="https://github.com/user-attachments/assets/73450d4a-3048-487d-8f5a-0a09ac9b28ee">
 
 Next, open your Android Studio then go to the File > New > Project from Version Control as shown in the image below. 
